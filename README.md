@@ -57,6 +57,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 9) Go back to IIS and enable the following extensions in PHP manager: php_imap.dll, php_intl.dll, php_opcache.dll Refresh the browser.
   ![image](https://github.com/user-attachments/assets/7b297a1c-5ecc-46e1-af51-dcc49c1addca)
 
-10) 
+ 10) Rename: ost-sampleconfig.php to ost-config.php in file explorer.
+     -  Go to file explorer --> OsTicket folder --> Include folder --> find ost-sample.config
+    
+11) Assign Permissions: ost-config.php
+      - Disable inheritance -> Remove All
+      - New Permissions -> Everyone -> All
+
+12) Continue Setting up osTicket in the browser (click Continue)
+    - Name Helpdesk
+    - Default email (receives email from customers)
+
+13) Download and install Heidi SQL then open and do the following:
+    - Create a new session
+    - Connect to the session
+    - Create a database name osTicket
+   
+  14) Finish osTicket setup in the browser assigning a username and password to database.
+
+  15) Click install now!
+
+
+
+
+
+
 
 
