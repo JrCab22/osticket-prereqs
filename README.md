@@ -23,13 +23,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable Internet Information Services (IIS)
-- Download PHP Manager
-- Download Rewrite Module
-- Download PHP 7.3.8
-- Download VC_redist.x86.exe.
-- Download MySQL 5.5.62
-- Download Heidi SQL
+- Internet Information Services (IIS)
+- PHP Manager
+- Rewrite Module
+- PHP 7.3.8
+- C_redist.x86.exe.
+- MySQL 5.5.62
+- Heidi SQL
 
 <h2>Installation Steps</h2>
 ![image](https://github.com/user-attachments/assets/3ab2bba5-f90a-4ae9-b1dd-acf44d9b2b49)
@@ -39,8 +39,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 1) Create a resource group for OS ticket and a virtual machine in the Microsoft Azure Portal.
-2) Remote into the virtual machine and locate IIS. (Right click start, click Run, type in control, Go to programs and then to turn Windows on or off). Check the box that says Internet Information Services.
-3) To make sure IIS is enable go to web browser and type 127.0.0.1
+2) Remote into the virtual machine and locate IIS. (Right click start, click Run, type in control, Go to programs and then to turn Windows on or off). In Windows features, check the box that says Internet Information Services.
+3) To make sure IIS is enabled go to web browser and type 127.0.0.1
+4) Download and Install all the following files: PHP Manager, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe.,  MySQL 5.5.62, and Heidi SQL.  
+  - PHP 7.3.8 to C:\PHP folder (newly created irectory)
+  
+5)
 <br />
 
 <p>
