@@ -32,13 +32,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Download Heidi SQL
 
 <h2>Installation Steps</h2>
+![image](https://github.com/user-attachments/assets/3ab2bba5-f90a-4ae9-b1dd-acf44d9b2b49)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a rsource group for OS ticket and a virtual machine in the Microsoft Azure Portal.
-</p>
+1) Create a resource group for OS ticket and a virtual machine in the Microsoft Azure Portal.
+2) Remote into the virtual machine and locate IIS. (Right click start, click Run, type in control, Go to programs and then to turn Windows on or off). Check the box that says Internet Information Services.
+3) To make sure IIS is enable go to web browser and type 127.0.0.1
 <br />
 
 <p>
