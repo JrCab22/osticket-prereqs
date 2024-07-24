@@ -51,10 +51,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 7) Reload IIS by clicking restart on the side bar.
 8) While in IIS go to sites --> default --> osTicket
-   -Click browse 80 on the sidebar
+   -Click browse 80 on the sidebar to open osTicket Installer
 ![Screenshot 2024-07-24 164508](https://github.com/user-attachments/assets/ac6559f0-e091-431d-8fbc-dfaef428a4bd)
 
-9) Enable the following extensions: php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the browser.
+9) Go back to IIS and enable the following extensions in PHP manager: php_imap.dll, php_intl.dll, php_opcache.dll Refresh the browser.
+  ![image](https://github.com/user-attachments/assets/7b297a1c-5ecc-46e1-af51-dcc49c1addca)
+
 10) 
 
 
