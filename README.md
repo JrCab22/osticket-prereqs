@@ -101,7 +101,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
   ![image](https://github.com/user-attachments/assets/7b297a1c-5ecc-46e1-af51-dcc49c1addca)
 
  14) Rename: ost-sampleconfig.php to ost-config.php in file explorer.
-     -  Go to file explorer --> OsTicket folder --> Include folder --> find ost-sample.config
+     -  Go to file explorer --> OsTicket folder --> Find the **Include** folder --> find ost-sample.config
     
 15) Assign Permissions: ost-config.php
       - Disable inheritance -> Remove All
