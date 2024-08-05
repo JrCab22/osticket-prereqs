@@ -96,7 +96,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
     - Name Helpdesk
     - Default email (receives email from customers)
 
-15) Download and install Heidi SQL then open and do the following:
+15) Open Heidi SQL and do the following:
     - Create a new session
     - Connect to the session
     - Create a database name osTicket
