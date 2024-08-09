@@ -100,13 +100,13 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 
   ![image](https://github.com/user-attachments/assets/7b297a1c-5ecc-46e1-af51-dcc49c1addca)
 
- 14) Rename: ost-sampleconfig.php to ost-config.php in file explorer.
+ 13) Rename: ost-sampleconfig.php to ost-config.php in file explorer.
      -  Go to file explorer --> Windows C drive --> inetpu --> OsTicket folder --> Find the **Include** folder --> find ost-sample.config and rename
      
 ![image](https://github.com/user-attachments/assets/2c1f4d6f-41e4-46dd-b61d-1feb613cab34)
 
   
-15) Assign Permissions: Right click ost-config.php and go to properties the security. Click the advanced button
+14) Assign Permissions: Right click ost-config.php and go to properties the security. Click the advanced button
       - Click Disable inheritance -> Remove All inherited permissions from this object
       - Click Add --> Select a principal 
       - Type Everyone (just for this practice) -> Click check names
@@ -120,7 +120,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 ![image](https://github.com/user-attachments/assets/ed4d7c1b-d96a-45dd-ae4f-f2da7edd80ba)
 
 
-16) Continue Setting up osTicket in the browser (click Continue)
+15) Continue Setting up osTicket in the browser (click Continue)
     - Enter a name under Helpdesk name and create a default email (receives email from customers).
     - Enter information for primary admin account
     - Make sure to save all the entered information in case!
@@ -130,15 +130,20 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 ![image](https://github.com/user-attachments/assets/c5509c82-e8ad-4af7-928f-7c2ec0a9ec0a)
 
 
-17) Open Heidi SQL and do the following:
-    - Create a new session
-    - Connect to the session
-    - Create a database name osTicket
+16) Install and open Heidi SQL and do the following:
+    - Create a new session (in this we enter instance root, password1)
+    - Connect to the session (click open)
+    - Create a database name osTicket by right clicking unamed
+      
+![image](https://github.com/user-attachments/assets/4f534b9a-f213-4a61-ad28-9542b465f483)
 
-   
-  18) Finish osTicket setup in the browser assigning a username and password to database.
 
-  19) Click install now!
+   ![image](https://github.com/user-attachments/assets/a1610ac9-3447-4716-8ee5-7fa13f364c2e)
+
+
+  17) Finish osTicket setup in the browser assigning a username and password to database.
+
+  18) Click install now!
 
 
 
