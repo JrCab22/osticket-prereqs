@@ -143,7 +143,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 
   17) Finish osTicket setup in the browser assigning a username and password to database.
 
-  18) Click install now!
+  18) Click install now. Congrats you are done!
 
 
 
