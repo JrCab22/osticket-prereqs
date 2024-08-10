@@ -137,7 +137,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
    ![image](https://github.com/user-attachments/assets/a1610ac9-3447-4716-8ee5-7fa13f364c2e)
 
 
-  17) Finish osTicket setup in the browser assigning a username and password to database.
+  17) Finish osTicket setup in the browser assigning a username and password to the database.
 
 ![image](https://github.com/user-attachments/assets/57545c61-bc0a-4eea-b54e-63770726e37d)
 
