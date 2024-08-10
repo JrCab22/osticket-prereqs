@@ -141,7 +141,7 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 
 ![image](https://github.com/user-attachments/assets/57545c61-bc0a-4eea-b54e-63770726e37d)
 
-  18) Click install now. Congrats you have successfully installed the osTicket ticketing system!
+  18) Click install now. Congrats! You have successfully installed the osTicket ticketing system.
 
 ![image](https://github.com/user-attachments/assets/b7684a57-151c-4fa3-acb0-c42291c9a6e1)
 
