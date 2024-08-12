@@ -46,7 +46,11 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
    ![image](https://github.com/user-attachments/assets/c5e663ac-47ec-4af1-bebd-5f9e6fe90996)
    
 
-**Make sure all the following are checked under Common HTTP features before installing IIS webserver**
+**Make sure all the following are checked before installing IIS webserver**:
+- Everything under Common HTTP Features
+- CGI under Application Development Features
+- IIS Manager under Web Management tools
+
 
 ![image](https://github.com/user-attachments/assets/0192c0c0-0d40-4e15-908e-2a990e82e09a)
 
