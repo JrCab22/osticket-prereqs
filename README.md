@@ -3,6 +3,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
+<h1>Video Demonstration</h1>
+
 <h1>osTicket - Prerequisites and Installation</h1>
 In this tutorial we will be going over a step by step guided walkthrough on how to setup the oS ticketing system on your device. <br />
 
@@ -150,6 +152,9 @@ In this tutorial we will be going over a step by step guided walkthrough on how 
 ![image](https://github.com/user-attachments/assets/b7684a57-151c-4fa3-acb0-c42291c9a6e1)
 
 
+**Clean up steps:**
+1) Delete setup folder in inetpub
+2) Change ostconfig to Read only
 
 
 
