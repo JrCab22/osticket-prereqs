@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>Video Demonstration</h1>
 
 <h1>osTicket - Prerequisites and Installation</h1>
 In this tutorial we will be going over a step by step guided walkthrough on how to setup the oS ticketing system on your device. <br />
